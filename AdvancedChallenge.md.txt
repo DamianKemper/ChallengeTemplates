@@ -1,21 +1,21 @@
 <!---6/30/2020--->
 
-<!---At the beginning of each challenge, include a comment that contains the initial creation date, all revision dates, and a description of the reason for the revision.--->
+<!---At the beginning of each Challenge Lab, include a comment that contains the initial creation date, all revision dates, and a description of the reason for the revision.--->
 
-<!---Advanced challenge definition
+<!---Advanced Challenge Lab definition
 
-An advanced challenge is intended for learners who have a functional knowledge of a product, and who want to test their level of understanding. Each advanced challenge contains a series of 3-6 related tasks that focus on real-world skills. Each advanced challenge should take an average learner 45 minutes to complete, on average.
+An Advanced Challenge Lab is intended for learners who have a functional knowledge of a product, and who want to test their level of understanding. Each Advanced Challenge Lab contains a series of 3-6 related tasks that focus on real-world skills. Each Advanced Challenge Lab should take an average learner 45 minutes to complete, on average.
 
-For learners who need some guidance on how to perform a task, each task contains a hint in the form of a URL that takes learners to the product documentation where they can get more information on how to complete the task. Each task is scored so that learners can determine whether or not they completed the task successfully. Each task can be repeated, giving learners the opportunity to test their skills and correct any errors they made while performing a task. 
+For learners who need some guidance on how to perform a task, each task contains a hint in the form of a URL that takes learners to the product documentation where they can get more information on how to complete the requirement. Each requirement is scored so that learners can determine whether or not they completed the requirement successfully. Each requirement can be repeated, giving learners the opportunity to test their skills and correct any errors they made while performing a requirement. 
 --->
 
 
 
 !INSTRUCTIONS[advanced](https://raw.githubusercontent.com/LODSContent/Public-Templates/master/General/itpc-advanced.md)
 
-> [challenge-name]:Can You [Your Challenge Title]?
+> [challenge-name]:Can You [Your Challenge Lab Title]?
 
-<!--- An advanced or expert challenge title is phrased in the form of a question and begins with the words “Can You …?” The title should reflect the key skills being tested in the challenge.
+<!--- An Advanced or Expert Challenge Lab title is phrased in the form of a question and begins with the words “Can You …?” The title should reflect the key skills being tested in the Challenge Lab.
 
 Examples
 Can You Maintain an Active Directory Domain Services Database?
@@ -34,38 +34,38 @@ Can You Configure a Resilient Enterprise That Has Mobile Clients?
 >You will be using xxx.
 
 <!---The Understand the scenario section 
-The challenge overview appears on the title page, under the challenge title, and contains a description of the challenge scenario and a summary of the challenge environment. Learners must select the overview in order to display the contents, so some learners may not read this information.
+The challenge overview appears on the title page, under the Challenge Lab title, and contains a description of the challenge scenario and a summary of the challenge environment. Learners must select the overview in order to display the contents, so some learners may not read this information.
 
-Each challenge contains an introductory paragraph that defines the job role, the requirements of the challenge, and the tasks the learner will perform. 
+Each Challenge Lab contains an introductory paragraph that defines the job role, the requirements of the Challenge Lab, and the tasks the learner will perform. 
 
-The opening sentence should state a possible job role associated with the tasks in the challenge. This is your opportunity to add some context to the challenge. 
+The opening sentence should state a possible job role associated with the tasks in the Challenge Lab. This is your opportunity to add some context to the Challenge Lab. 
 
 Opening sentence examples
 -	You are a database administrator.
 -	You are a systems administrator.
 -	You are a Microsoft 365 administrator.
 
-The second sentence should be in the form of a requirements statement that describes the overall goal of the challenge. Use the phrase “You need to…” to begin your requirements statement. The requirements statement should relate to the title.
+The second sentence should be in the form of a requirements statement that describes the overall goal of the Challenge Lab. Use the phrase “You need to…” to begin your requirements statement. The requirements statement should relate to the title.
 
 Do not use phrases like:
 - Your boss has tasked you with…
 - The CIO wants you to…
 - You have been asked to…
 
-Instead, use the phrase "you need to" to introduce the main requirement of the challenge.
+Instead, use the phrase "you need to" to introduce the main requirement of the Challenge Lab.
 
 Requirements statement examples
 -	You need to configure storage for files that are used by a web application.
 -	You need to create a new test virtual machine that is based on an existing managed disk.
 -	You need to add users to your organization’s Microsoft 365 tenant.
 
-The outcome, often referred to as the abstract, states what a learner will do in the challenge. You write the abstract by using the following style: 
--	“First, you will…Next, you will…Finally, you will….”
+The outcome, often referred to as the abstract, states what a learner will do in the Challenge Lab. You write the abstract by using the following style: 
+-	“First, you will…Next, you will… Finally, you will….”
 -	“First, you will…, and then you will …. Next, you will…, and then you will…. Finally, you will…, and then you will….
 
-This structure is mandatory and works well for three to six tasks. It is an easy fit for a challenge, since the average challenge contains three to six tasks.
+This structure is mandatory and works well for three to six tasks. It is an easy fit for a Challenge Lab, since the average Challenge Lab contains three to six tasks.
 
-Take a look at your headings and your summary points, and then turn these into sentences. After you have completed your challenge, make sure that you review your overview to ensure that the it still reflects the final tasks in the challenge.
+Take a look at your headings and your summary points, and then turn these into sentences. After you have completed your Challenge Lab, make sure that you review your overview to ensure that the it still reflects the final tasks in the challenge.
 
 Abstract examples
 -	First, you will create accounts for users, and then you will assign licenses to the accounts. Next, you will create a security group, and then you will add the users to the group. Finally, you will remove a user’s license.
@@ -79,12 +79,12 @@ You are a Microsoft&reg; 365 administrator. You need to manage multiple Office 3
 
 --->
 
-<!---The Understand your environment section should contain one or two sentences that describe the technical environment used in the challenge. Keep this simple!
+<!---The Understand your environment section should contain one or two sentences that describe the technical environment used in the Challenge Lab. Keep this simple!
 
 Use the phrase “You will be using …” when writing about the environment.
 
-- In a challenge that uses virtual machines, state the names of the virtual machines and, if needed, the operating systems installed on the virtual machines.
-- In a challenge that uses services, state the services that have been created by using a script. Only include services that the learner will need to use to complete the challenge.
+- In a Challenge Lab that uses virtual machines, state the names of the virtual machines and, if needed, the operating systems installed on the virtual machines.
+- In a Challenge Lab that uses services, state the services that have been created by using a script. Only include services that the learner will need to use to complete the Challenge Lab.
 
 Understand your environment samples
 You will be using a virtual machine named DC01 that runs Windows&reg; Server 2019.
@@ -214,7 +214,7 @@ Examples
 
 # Summary
 
-Congratulations, you have completed the **Your Challenge Title** challenge.
+Congratulations, you have completed the **Your Challenge Title** Challenge Lab.
 
 You have accomplished the following:
 
@@ -231,9 +231,9 @@ You have accomplished the following:
 !instructions[](https://raw.githubusercontent.com/LODSContent/ChallengeTemplates/master/Boilerplate/Feedback.md)
 
 
-## Other challenges in this series
+## Other Challenge Labs in this series:
 
-<!---This section is mandatory. Include any challenges in the series that relate to this challenge. Replace the sample titles. Leave one blank line between each challenge title.--->
+<!---This section is mandatory. Include any Challenge Labs in the series that relate to this Challenge Lab. Replace the sample titles. Leave one blank line between each challenge title.--->
 
 - GUIDED CHALLENGE: xxxx
 
