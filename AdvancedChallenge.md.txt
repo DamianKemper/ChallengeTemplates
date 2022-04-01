@@ -1,10 +1,10 @@
 <!---6/30/2020--->
 
-<!---At the beginning of each challenge, include a comment that contains the initial creation date, all revision dates, and a description of the reason for the revision.--->
+<!---At the beginning of each Challenge Lab, include a comment that contains the initial creation date, all revision dates, and a description of the reason for the revision.--->
 
-<!---Advanced challenge definition
+<!---Advanced Challenge Lab definition
 
-An advanced challenge is intended for learners who have a functional knowledge of a product, and who want to test their level of understanding. Each advanced challenge contains a series of 3-6 related tasks that focus on real-world skills. Each advanced challenge should take an average learner 45 minutes to complete, on average.
+An Advanced Challenge Lab is intended for learners who have a functional knowledge of a product, and who want to test their level of understanding. Each Advanced Challenge Lab contains a series of 3-6 related tasks that focus on real-world skills. Each Advanced Challenge Lab should take an average learner 45 minutes to complete.
 
 For learners who need some guidance on how to perform a task, each task contains a hint in the form of a URL that takes learners to the product documentation where they can get more information on how to complete the task. Each task is scored so that learners can determine whether or not they completed the task successfully. Each task can be repeated, giving learners the opportunity to test their skills and correct any errors they made while performing a task. 
 --->
@@ -13,9 +13,9 @@ For learners who need some guidance on how to perform a task, each task contains
 
 !INSTRUCTIONS[advanced](https://raw.githubusercontent.com/LODSContent/Public-Templates/master/General/itpc-advanced.md)
 
-> [challenge-name]:Can You [Your Challenge Title]?
+> [challenge-name]:Can You [Your Challenge Lab Title]?
 
-<!--- An advanced or expert challenge title is phrased in the form of a question and begins with the words “Can You …?” The title should reflect the key skills being tested in the challenge.
+<!--- An Advanced or Expert Challenge Lab title is phrased in the form of a question and begins with the words “Can You …?” The title should reflect the key skills being tested in the challenge.
 
 Examples
 Can You Maintain an Active Directory Domain Services Database?
@@ -214,7 +214,7 @@ Examples
 
 # Summary
 
-Congratulations, you have completed the **Your Challenge Title** challenge.
+Congratulations, you have completed the **Your Challenge Lab Title** Challenge Lab.
 
 You have accomplished the following:
 
@@ -231,9 +231,9 @@ You have accomplished the following:
 !instructions[](https://raw.githubusercontent.com/LODSContent/ChallengeTemplates/master/Boilerplate/Feedback.md)
 
 
-## Other challenges in this series
+## Other Challenge Labs in this series
 
-<!---This section is mandatory. Include any challenges in the series that relate to this challenge. Replace the sample titles. Leave one blank line between each challenge title.--->
+<!---This section is mandatory. Include any Challenge Labs in the series that relate to this Challenge Lab. Replace the sample titles. Leave one blank line between each Challenge Lab title.--->
 
 - GUIDED CHALLENGE: xxxx
 
