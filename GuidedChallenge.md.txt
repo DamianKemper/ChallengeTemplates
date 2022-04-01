@@ -1,10 +1,10 @@
 <!---6/30/2020--->
 
-<!---At the beginning of each challenge, include a comment that contains the initial creation date, all revision dates, and a description of the reason for the revision.--->
+<!---At the beginning of each Challenge Lab, include a comment that contains the initial creation date, all revision dates, and a description of the reason for the revision.--->
 
-<!---Guided challenge definition
+<!---Guided Challenge Lab definition
 
-A guided challenge is intended for learners who have basic familiarity with a concept, but who may be lacking experience and knowledge. Each guided challenge contains a series of 3–5 related tasks that focus on real-world skills. Each guided challenge should take an average learner 30 minutes to complete, on average.
+A Guided Challenge Lab is intended for learners who have basic familiarity with a concept, but who may be lacking experience and knowledge. Each Guided Challenge Lab contains a series of 3–5 related tasks that focus on real-world skills. Each Guided Challenge Lab should take an average learner 30 minutes to complete.
 
 Learners are provided with task-based instructions that simulate a real-world experience. Instructions are action-based and include the input required to complete the task. For learners who need some guidance on how to perform a task, detailed hints are provided in the form of step-by-step instructions, videos, and detailed syntax for commands. Learners can choose to use a hint as needed.
 
@@ -13,12 +13,12 @@ Learners are provided with task-based instructions that simulate a real-world ex
 
 !INSTRUCTIONS[guided](https://raw.githubusercontent.com/LODSContent/Public-Templates/master/General/itpc-guided.md)
 
-> [challenge-name]: Your Challenge Title
+> [challenge-name]: Your Challenge Lab Title
 
 <!---
-The title is one of the most important elements of a challenge. It tells the learners what they should be able to do when they have completed the challenge. All titles use title case.
+The title is one of the most important elements of a Challenge Lab. It tells the learners what they should be able to do when they have completed the Challenge Lab. All titles use title case.
 
-A guided challenge title must begin with an action verb. Some titles may contain the name of the product or technology that is featured in the challenge. If possible, avoid using the word and in a title. In most cases, when you see the word and, you have two different challenges.
+A Guided Challenge Lab title must begin with an action verb. Some titles may contain the name of the product or technology that is featured in the Challenge Lab. If possible, avoid using the word and in a title. In most cases, when you see the word and, you have two different Challenge Labs.
 
 Examples
 Restore Objects in Azure Active Directory
@@ -294,7 +294,7 @@ Examples
 
 # Summary
 
-Congratulations, you have completed the **Your Challenge Title** challenge.
+Congratulations, you have completed the **Your Challenge Lab Title** Challenge Lab.
 
 You have accomplished the following:
 
@@ -312,9 +312,9 @@ You have accomplished the following:
 !instructions[](https://raw.githubusercontent.com/LODSContent/ChallengeTemplates/master/Boilerplate/Feedback.md)
 
 
-## Other challenges in this series
+## Other Challenge Labs in this series:
 
-<!---This section is mandatory. Include any challenges in the series that relate to this challenge. Replace the sample titles. Leave one blank line between each challenge title.--->
+<!---This section is mandatory. Include any Challenge Labs in the series that relate to this Challenge Lab. Replace the sample titles. Leave one blank line between each Challenge Lab title.--->
 
 - GUIDED CHALLENGE: xxxx
 
