@@ -135,7 +135,7 @@ In this task, you will run a Windows PowerShell&trade; script that will populate
 ===
 # Summary
 
-Congratulations, you have completed the **Provision an Office 365 E5 Trial Subscription** challenge lab.
+Congratulations, you have completed the **Provision an Office 365 E5 Trial Subscription** Challenge Lab.
 
 You have accomplished the following:
 
