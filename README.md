@@ -1,6 +1,6 @@
-# Challenge Template Files
+# Challenge Lab Template Files
 
-This repo contains templates for the different types of lab challenges:
+This repo contains templates for the different types of Challenge Labs:
 
   - Guided
   - Advanced
