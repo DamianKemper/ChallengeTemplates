@@ -1,2 +1,2 @@
 
-# Future home for Challenge examples
+# Future home for Challenge Lab examples
